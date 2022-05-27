@@ -4,6 +4,7 @@ namespace My Application
 class Program
 {Static void Main (string[]args)
 {
+    string []dogs={"Raja","Sammy","Betty","Daisy"}
     int dog =4;
     switch(dog)
     {
@@ -15,6 +16,7 @@ class Program
         break;
         default: Console.WriteLine("Daisy");
     }
+    Console.WriteLine(dogs);
 }
 }
 }
