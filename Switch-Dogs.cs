@@ -2,7 +2,7 @@ Using System;
 namespace My Application
 {
 class Program
-{Satic void Main (string[]args)
+{Static void Main (string[]args)
 {
     int dog =4;
     switch(dog)
